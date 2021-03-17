@@ -1,0 +1,80 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.mainstyle {
+    color: black;
+    width: 80%;
+    background-color:blanchedalmond;
+    border-left: 15px inset khaki;
+    padding: 5px;
+    margin: 10px;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img {
+  color: black;
+  padding: 0px;
+  margin: 0px;
+  align-self: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: burlywood;
+}
+
+.cubemenu {
+  color: black;
+  width: 80%;
+  /*background-color:blanchedalmond;*/
+  background-color: blanchedalmond;
+  border-left: 15px inset khaki;
+  padding: 15px;
+  padding-left: 0px;
+  margin: 10px;
+  margin-left: 0px;
+  font-size: large;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+
+}
+
+button{
+
+  background-color:#9d945c;
+  size: 50px;
+  padding: 10px;
+  border:0px;
+  font-size: 16px;
+  color:white;
+
+}
+
+.grid-container {
+  display: grid;
+  height: auto;
+  width: 87%;
+  align-content: end;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  margin: 2px;
+}
+
+
+.grid-container > div {
+  text-align: center;
+}
+
+.shopbutton {
+  background-color:#9d945c;
+  size: 50px;
+  padding: 10px;
+  border:0px;
+  font-size: 16px;
+  color:white;
+  width: 80%;
+  height: 50%;
+}
+

@@ -1,0 +1,23 @@
+
+.footerstyle {
+    color: black;
+    background-color:blanchedalmond;
+    border-left: 15px inset khaki;
+    width: 80%;
+    padding: 20px;
+    margin: 10px;
+    font-size: medium;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    color: black;
+    width: 80%;
+    background-color:blanchedalmond;
+    border-left: 15px inset khaki;
+    padding: 5px;
+    margin: 10px;
+    font-size: 400%;
+    align-self: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
